@@ -1,0 +1,23 @@
+{
+  "name": "bike-xy",
+  "version": "0.0.1",
+  "description": "vue-ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoxiaoxiaoyang/bike-xy.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "xiaoyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoxiaoxiaoyang/bike-xy/issues"
+  },
+  "homepage": "https://github.com/xiaoxiaoxiaoyang/bike-xy#readme"
+}
